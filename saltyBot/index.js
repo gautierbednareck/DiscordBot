@@ -56,3 +56,4 @@ bot.on('guildMemberAdd',function (member){
         return channel.send('bienvenu ' + member.displayName)
     })
 }) 
+
